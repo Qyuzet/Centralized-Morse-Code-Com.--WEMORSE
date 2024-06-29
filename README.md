@@ -135,7 +135,7 @@ The Kotlin code is responsible for the Android application's user interface and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/WEMORSE.git
+   git clone https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE.git
    ```
 2. **Open the Project in Android Studio:**
    - Navigate to the cloned repository and open the project in Android Studio.
