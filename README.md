@@ -178,7 +178,7 @@ We welcome contributions from the community! To contribute:
    - Click the 'Fork' button on the top right of the repository page.
 2. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/yourusername/WEMORSE.git
+   git clone https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE.git
    ```
 3. **Create a Branch:**
    ```bash
