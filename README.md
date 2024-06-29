@@ -1,7 +1,9 @@
 # WEMORSE
-
 **Centralized Morse Code Communication**  
 Group 3 | 4 ISA 3 | IoT project
+
+![image](https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE/assets/93258081/cee3f852-7fd8-40a6-b2cf-9182426295ca)
+
 
 ## Team
 
@@ -27,6 +29,8 @@ Group 3 | 4 ISA 3 | IoT project
 ## Project Overview
 
 WEMORSE is a Java-based Android application built using the Kotlin framework, designed for secure and efficient Morse code communication. The system leverages the ESP8266 microcontroller to enable communication from anywhere with an internet connection, providing a scalable solution for secret reporting and secure messaging.
+
+![image](https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE/assets/93258081/c2cb53a2-6df2-4c99-add4-420705a40ce3)
 
 ## System Analysis
 
@@ -68,6 +72,8 @@ The table design is as follows:
 
 The general flowchart outlines the high-level processes of the WEMORSE system, including message input, processing, and output. It provides a visual representation of how messages flow through the system.
 
+![image](https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE/assets/93258081/03a53468-6c35-447f-af70-d6bec17c38ba)
+
 ### Detailed Flowchart
 
 The detailed flowchart breaks down each step of the process, including:
@@ -75,6 +81,8 @@ The detailed flowchart breaks down each step of the process, including:
 1. **Message Input:** User inputs a Morse code message.
 2. **Message Processing:** The system decodes the Morse code, verifies the sender, and logs the message.
 3. **Message Output:** The decoded message is sent to the intended recipient, and the status is updated.
+
+![image](https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE/assets/93258081/87b5786c-9e2a-4f8e-a2f5-74e37268951d)
 
 ## Code Configuration
 
