@@ -135,7 +135,7 @@ The Kotlin code is responsible for the Android application's user interface and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE.git
+   git clone https://github.com/Qyuzet/java-cpp-kotlin-morse-communication-device--wemorse.git
    ```
 2. **Open the Project in Android Studio:**
    - Navigate to the cloned repository and open the project in Android Studio.
@@ -178,7 +178,7 @@ We welcome contributions from the community! To contribute:
    - Click the 'Fork' button on the top right of the repository page.
 2. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/Qyuzet/Centralized-Morse-Code-Com.--WEMORSE.git
+   git clone https://github.com/Qyuzet/java-cpp-kotlin-morse-communication-device--wemorse.git
    ```
 3. **Create a Branch:**
    ```bash
